@@ -1,0 +1,4 @@
+https://judge.yosupo.jp/problem/enumerate_palindromes
+https://codeforces.com/contest/1326/problem/D2
+https://www.spoj.com/problems/NUMOFPAL/
+https://cses.fi/problemset/task/1111
