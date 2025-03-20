@@ -8,5 +8,6 @@ I've found them incredibly helpful in tackling problem-solving challenges. <br> 
 - [Convex Hull Algorithms_2](https://github.com/Tanvir-Mahamood/C-Plus-Plus/tree/main/Algorithm%20Lab%20Task/Convexity%20GraphPlot)
 - [Strassens Algorithm](https://github.com/Tanvir-Mahamood/C-Plus-Plus/blob/main/Algorithm%20Lab%20Task/StrassensAlgorithm.cpp)
 <hr>
-Some Collection of other repositories: 
+
+Some Collection of other repositories: <br><hr>
 - [Bangla Programming Resources](https://github.com/shawon100/bangla-programming-resources)
