@@ -11,3 +11,7 @@ I've found them incredibly helpful in tackling problem-solving challenges. <br> 
 
 Some Collection of other repositories: <br><hr>
 - [Bangla Programming Resources](https://github.com/shawon100/bangla-programming-resources)
+
+
+## 📄 License
+This project is open source and available under the [Apache 2.0 License](LICENSE).
