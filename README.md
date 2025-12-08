@@ -7,6 +7,7 @@ I've found them incredibly helpful in tackling problem-solving challenges. <br> 
 - [Convex Hull Algorithms_1](https://github.com/Tanvir-Mahamood/C-Plus-Plus/tree/main/Algorithm%20Lab%20Task/Convexity)
 - [Convex Hull Algorithms_2](https://github.com/Tanvir-Mahamood/C-Plus-Plus/tree/main/Algorithm%20Lab%20Task/Convexity%20GraphPlot)
 - [Strassens Algorithm](https://github.com/Tanvir-Mahamood/C-Plus-Plus/blob/main/Algorithm%20Lab%20Task/StrassensAlgorithm.cpp)
+- [Floyd Cycle Detection](https://github.com/Tanvir-Mahamood/Leetcode-Top-Interview-150-Solution/tree/main/202-happy-number)
 <hr>
 
 Some Collection of other repositories: <br><hr>
