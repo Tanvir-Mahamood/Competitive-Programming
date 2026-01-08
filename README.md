@@ -8,7 +8,7 @@ I've found them incredibly helpful in tackling problem-solving challenges. <br> 
 - [Convex Hull Algorithms_2](https://github.com/Tanvir-Mahamood/C-Plus-Plus/tree/main/Algorithm%20Lab%20Task/Convexity%20GraphPlot)
 - [Strassens Algorithm](https://github.com/Tanvir-Mahamood/C-Plus-Plus/blob/main/Algorithm%20Lab%20Task/StrassensAlgorithm.cpp)
 - [Floyd Cycle Detection](https://github.com/Tanvir-Mahamood/Leetcode-Top-Interview-150-Solution/tree/main/202-happy-number)
-<hr>
+- [Cycle Detection in Directed Graph](https://github.com/Tanvir-Mahamood/Leetcode-Top-Interview-150-Solution/tree/main/207-course-schedule)
 
 Some Collection of other repositories: <br><hr>
 - [Bangla Programming Resources](https://github.com/shawon100/bangla-programming-resources)
