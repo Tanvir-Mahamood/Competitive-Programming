@@ -9,7 +9,8 @@ I've found them incredibly helpful in tackling problem-solving challenges. <br> 
 - [Strassens Algorithm](https://github.com/Tanvir-Mahamood/C-Plus-Plus/blob/main/Algorithm%20Lab%20Task/StrassensAlgorithm.cpp)
 - [Floyd Cycle Detection](https://github.com/Tanvir-Mahamood/Leetcode-Top-Interview-150-Solution/tree/main/202-happy-number)
 - [Cycle Detection in Directed Graph](https://github.com/Tanvir-Mahamood/Leetcode-Top-Interview-150-Solution/tree/main/207-course-schedule) <br>
-- [Snakes and Ladders | BFS on LUDO Court ](https://github.com/Tanvir-Mahamood/Leetcode-Top-Interview-150-Solution/tree/main/945-snakes-and-ladders)
+- [Snakes and Ladders | BFS on LUDO Court](https://github.com/Tanvir-Mahamood/Leetcode-Top-Interview-150-Solution/tree/main/945-snakes-and-ladders)
+- [kadane's Algorithm | Maximum Subarray Sum](https://github.com/Tanvir-Mahamood/Leetcode-Top-Interview-150-Solution/tree/main/0053-maximum-subarray)
 
 Some Collection of other repositories: <br><hr>
 - [Bangla Programming Resources](https://github.com/shawon100/bangla-programming-resources)
