@@ -11,7 +11,7 @@ I've found them incredibly helpful in tackling problem-solving challenges. <br> 
 - [Cycle Detection in Directed Graph](https://github.com/Tanvir-Mahamood/Leetcode-Top-Interview-150-Solution/tree/main/207-course-schedule) <br>
 - [Snakes and Ladders | BFS on LUDO Court](https://github.com/Tanvir-Mahamood/Leetcode-Top-Interview-150-Solution/tree/main/945-snakes-and-ladders)
 - [kadane's Algorithm | Maximum Subarray Sum](https://github.com/Tanvir-Mahamood/Leetcode-Top-Interview-150-Solution/tree/main/0053-maximum-subarray)
-- [N Queens problem](https://leetcode.com/problems/n-queens/)
+- [N Queens problem](https://github.com/Tanvir-Mahamood/Leetcode-Top-Interview-150-Solution/tree/main/0051-n-queens)
 
 Some Collection of other repositories: <br><hr>
 - [Bangla Programming Resources](https://github.com/shawon100/bangla-programming-resources)
